@@ -79,3 +79,6 @@ Do not upload real customer data or confidential spreadsheets to public reposito
 ## Project Status
 
 Version 7.1 — Tested on Windows.
+## Demo Screenshot
+
+![Excel Data Cleaner Demo](excel-cleaner-demo%201.png)
